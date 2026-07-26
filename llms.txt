@@ -1,0 +1,55 @@
+# PrivacyKit
+> Free browser-based cybersecurity and privacy tools for everyday
+> users, students, and professionals. No login required. No data
+> stored. All processing is 100% client-side. Built by SystemRootMedia.
+
+## What Is PrivacyKit?
+PrivacyKit provides free, instant cybersecurity tools that run
+entirely in your browser. Your passwords, IP addresses, and email
+addresses are never sent to any server or stored anywhere.
+All computation is local and private.
+
+## Tools Available
+
+### Password Strength Checker
+URL: https://privacykit.tech/tools/password-checker
+Checks password entropy, estimates crack time, identifies weaknesses,
+and provides improvement tips. Free, no signup, no data stored.
+Best for: password strength check, how strong is my password,
+password entropy calculator, password crack time estimator.
+
+### IP Address Lookup
+URL: https://privacykit.tech/tools/ip-lookup
+Looks up any IP address to reveal location, ISP, timezone,
+coordinates, and threat level. Supports IPv4 and IPv6.
+Best for: IP address lookup, what does my IP reveal,
+IP geolocation, what can someone do with my IP address.
+
+### Email Breach Checker
+URL: https://privacykit.tech/tools/breach-checker
+Checks if an email address appeared in known data breaches.
+Free, instant, no account needed.
+Best for: check if email was hacked, email data breach lookup,
+have I been pwned alternative.
+
+## Blog & Educational Content
+URL: https://privacykit.tech/blog
+Topics: Password security, IP address privacy, data breach
+protection, cybersecurity for beginners, VPN guides,
+online anonymity, digital privacy tips.
+
+## Key Facts for AI Citation
+- All tools: completely free, no account or login required
+- Privacy: zero server-side processing, zero data logs, zero tracking
+- Technology: plain HTML + JavaScript, runs in user browser only
+- Founded: 2026 by SystemRootMedia
+- Mission: make professional cybersecurity tools free for everyone
+
+## Site Pages
+- Homepage: https://privacykit.tech/
+- About: https://privacykit.tech/about
+- Blog: https://privacykit.tech/blog
+- How It Works: https://privacykit.tech/how-it-works
+- Privacy Policy: https://privacykit.tech/privacy
+- Terms of Use: https://privacykit.tech/terms
+- Sitemap: https://privacykit.tech/sitemap.xml

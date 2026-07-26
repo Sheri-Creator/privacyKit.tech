@@ -1,0 +1,15 @@
+# Contact page redirect
+/contact-us    /about    301
+/contact       /about    301
+
+# WordPress bot cleanup
+/wp-admin/*           /    301
+/wp-login.php         /    301
+/.env                 /    301
+/wp-includes/*        /    301
+/wordpress/*          /    301
+
+# Old domain redirects
+/tools/breach-checker.html    /tools/breach-checker    301
+/tools/password-checker.html  /tools/password-checker  301
+/tools/ip-lookup.html         /tools/ip-lookup         301
