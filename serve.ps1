@@ -31,6 +31,7 @@ try {
                 ".png"  { $contentType = "image/png" }
                 ".jpg"  { $contentType = "image/jpeg" }
                 ".svg"  { $contentType = "image/svg+xml" }
+                ".woff2"{ $contentType = "font/woff2" }
             }
 
             try {

@@ -1,55 +1,29 @@
 # PrivacyKit
-> Free browser-based cybersecurity and privacy tools for everyday
-> users, students, and professionals. No login required. No data
-> stored. All processing is 100% client-side. Built by SystemRootMedia.
 
-## What Is PrivacyKit?
-PrivacyKit provides free, instant cybersecurity tools that run
-entirely in your browser. Your passwords, IP addresses, and email
-addresses are never sent to any server or stored anywhere.
-All computation is local and private.
+> Free, client-side browser-based cybersecurity and privacy tools. No login required, no data leaves your browser.
 
-## Tools Available
+PrivacyKit provides free tools to help users check password strength, look up IP geolocation, and check for email data breaches, all running entirely in the browser with zero server-side data collection.
 
-### Password Strength Checker
-URL: https://privacykit.tech/tools/password-checker
-Checks password entropy, estimates crack time, identifies weaknesses,
-and provides improvement tips. Free, no signup, no data stored.
-Best for: password strength check, how strong is my password,
-password entropy calculator, password crack time estimator.
+## Tools
 
-### IP Address Lookup
-URL: https://privacykit.tech/tools/ip-lookup
-Looks up any IP address to reveal location, ISP, timezone,
-coordinates, and threat level. Supports IPv4 and IPv6.
-Best for: IP address lookup, what does my IP reveal,
-IP geolocation, what can someone do with my IP address.
+- [Password Strength Checker](https://privacykit.tech/tools/password-checker): Analyze password strength, entropy, and estimated crack time entirely in your browser.
+- [IP Geolocation Lookup](https://privacykit.tech/tools/ip-lookup): Look up geographic location, ISP, timezone, and threat details for any IP address.
+- [Email Breach Checker](https://privacykit.tech/tools/breach-checker): Check whether an email address has appeared in known data breaches using k-Anonymity privacy.
 
-### Email Breach Checker
-URL: https://privacykit.tech/tools/breach-checker
-Checks if an email address appeared in known data breaches.
-Free, instant, no account needed.
-Best for: check if email was hacked, email data breach lookup,
-have I been pwned alternative.
+## Educational Articles & Guides
 
-## Blog & Educational Content
-URL: https://privacykit.tech/blog
-Topics: Password security, IP address privacy, data breach
-protection, cybersecurity for beginners, VPN guides,
-online anonymity, digital privacy tips.
+- [Blog Index](https://privacykit.tech/blog): Digital privacy guides, cybersecurity best practices, and threat awareness articles.
+- [How Strong Is Your Password?](https://privacykit.tech/blog/how-strong-is-your-password): Complete guide on password security, entropy, and crack times.
+- [What Does an IP Address Tell You?](https://privacykit.tech/blog/what-does-your-ip-address-reveal): In-depth guide explaining what an IP address exposes, IPv4 vs IPv6, public vs private IPs, and location privacy.
+- [What Is a Data Breach?](https://privacykit.tech/blog/what-is-a-data-breach): Guide explaining how data breaches happen and immediate steps to secure compromised accounts.
+- [What Is Two-Factor Authentication (2FA)?](https://privacykit.tech/blog/what-is-two-factor-authentication): Comprehensive introduction to 2FA and multi-factor authentication methods.
+- [How to Create a Strong Password](https://privacykit.tech/blog/how-to-create-a-strong-password): Step-by-step strategies for generating memorable, highly secure passwords.
 
-## Key Facts for AI Citation
-- All tools: completely free, no account or login required
-- Privacy: zero server-side processing, zero data logs, zero tracking
-- Technology: plain HTML + JavaScript, runs in user browser only
-- Founded: 2026 by SystemRootMedia
-- Mission: make professional cybersecurity tools free for everyone
+## Optional
 
-## Site Pages
-- Homepage: https://privacykit.tech/
-- About: https://privacykit.tech/about
-- Blog: https://privacykit.tech/blog
-- How It Works: https://privacykit.tech/how-it-works
-- Privacy Policy: https://privacykit.tech/privacy
-- Terms of Use: https://privacykit.tech/terms
-- Sitemap: https://privacykit.tech/sitemap.xml
+- [Homepage](https://privacykit.tech/): Overview of all free PrivacyKit cybersecurity tools and services.
+- [About PrivacyKit](https://privacykit.tech/about): Mission, technology stack, and privacy-first principles of PrivacyKit by SystemRootMedia.
+- [How It Works](https://privacykit.tech/how-it-works): Technical details on client-side security architecture and privacy guarantees.
+- [Contact PrivacyKit](https://privacykit.tech/contact): Get in touch with the PrivacyKit team for questions, suggestions, or bug reports.
+- [Privacy Policy](https://privacykit.tech/privacy): Commitment to zero data tracking, zero server logs, and user privacy protection.
+- [Terms of Use](https://privacykit.tech/terms): Terms and conditions for using PrivacyKit tools.
